@@ -4,3 +4,4 @@
 - Pusher
 - Puller
 - Je sais fetch !
+- Je sais checkout
