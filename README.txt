@@ -7,3 +7,4 @@
 - Je sais checkout
 - Je sais créér une branche
 - Je sais merger une branche
+- Je sais rebaser
