@@ -5,3 +5,4 @@
 - Puller
 - Je sais fetch !
 - Je sais créér une branche
+- Je sais merger une branche
