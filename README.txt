@@ -3,3 +3,4 @@
 - Commit
 - Pusher
 - Puller
+- Fetch
