@@ -8,3 +8,4 @@
 - Je sais créér une branche
 - Je sais merger une branche
 - Je sais rebaser
+- Je sais faire trop de truc
